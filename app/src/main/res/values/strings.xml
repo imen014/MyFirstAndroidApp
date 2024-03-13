@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstAndup</string>
+    <string name="param_tres">paramétres</string>
+    <string name="rechercher">Rechercher</string>
+</resources>
